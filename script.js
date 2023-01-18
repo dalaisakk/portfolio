@@ -1,8 +1,8 @@
 
 const project = [
     {id: 1, name: 'Crypto API', paragraph: 'Javascript html/css', img: 'cryptoApi2.png'},
-    {id: 2, name: 'Booking', paragraph: 'Javascript html/css',img: 'booking.png'},
-    {id: 3, name: 'Todo', paragraph: 'Javascript html/css', img: 'todo.png'},
+    {id: 2, name: 'Booking System', paragraph: 'Javascript html/css',img: 'booking.png'},
+    {id: 3, name: 'Todo List', paragraph: 'Javascript html/css', img: 'todo.png'},
 
 ]
 project.forEach((n)=> {
