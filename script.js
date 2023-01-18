@@ -10,7 +10,7 @@ project.forEach((n)=> {
     projectDiv.classList.add( 'hidden', 'card')
     projectDiv.innerHTML = `<div class="cardText"><h1>${n.name}</h1> 
                              <p>${n.paragraph}</p></div>
-                             <div><img src="/Bilder/${n.img}" alt=""></div>`
+                             <div><img src="Bilder/${n.img}" alt=""></div>`
 
     document.getElementById('box').appendChild(projectDiv)     
 
